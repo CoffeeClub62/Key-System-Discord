@@ -13,3 +13,6 @@ Bot with key system including time in days with database.
 * !remover-chave <Chave>
 * !resgatar-chave <Chave>
 * !checar-chaves
+
+## Configuração
+* Certifique-se de alterar token, prefixo & canal de logs no config.json do bot.
