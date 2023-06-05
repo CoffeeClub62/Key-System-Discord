@@ -16,3 +16,7 @@ Bot with key system including time in days with database.
 
 ## Configuração
 * Certifique-se de alterar token, prefixo & canal de logs no config.json do bot.
+
+## Bibliotecas
+* Discord.js (^13.6.0)
+* SQLite 3 (^5.1.6)
